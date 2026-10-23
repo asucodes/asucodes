@@ -31,8 +31,6 @@ undergraduate at IIT Kanpur, department of intelligent systems. I build things f
   <img height="160" src="https://streak-stats.demolab.com?user=asucodes&hide_border=true" alt="GitHub streak" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asucodes&theme=default&utcOffset=5.5" alt="Productive time" width="100%"/>
-
 ---
 
 ### reach
