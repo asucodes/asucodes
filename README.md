@@ -2,7 +2,7 @@
 
 ### hi, I'm ashirvad dwivedi
 
-undergraduate at IIT Kanpur. I build things for real users and contribute to open source along the way.
+undergraduate at IIT Kanpur, department of intelligent systems. I build things for real users and contribute to open source along the way.
 
 - currently focused on systems programming, networking and web engineering
 - comfortable across the stack: from deploying Linux servers to shipping production web apps
@@ -31,7 +31,7 @@ undergraduate at IIT Kanpur. I build things for real users and contribute to ope
   <img height="160" src="https://streak-stats.demolab.com?user=asucodes&hide_border=true" alt="GitHub streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asucodes&theme=default&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asucodes&theme=default&utcOffset=5.5" alt="Productive time" width="100%"/>
 
 ---
 
