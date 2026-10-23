@@ -2,7 +2,7 @@
 
 ### hi, I'm ashirvad dwivedi
 
-undergraduate at IIT Kanpur, department of intelligent systems. I build things for real users and contribute to open source along the way.
+undergraduate at IIT Kanpur. I build things for real users and contribute to open source along the way.
 
 - currently focused on systems programming, networking and web engineering
 - comfortable across the stack: from deploying Linux servers to shipping production web apps
