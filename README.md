@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asucodes&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 
-### hi, I'm ashirvad dwivedi
+### hi, I'm asu
 
 undergraduate at IIT Kanpur, department of intelligent systems. I build things for real users and contribute to open source along the way.
 
